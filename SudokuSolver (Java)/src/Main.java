@@ -17,6 +17,7 @@ public class Main {
 			solver.solve();
 			System.out.println("done");
 			System.out.println(solver.output());
+			System.out.println("done");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
